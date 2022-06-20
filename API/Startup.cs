@@ -1,6 +1,7 @@
 using Microsoft.OpenApi.Models;
 using Microsoft.EntityFrameworkCore;
 using Infrastructure.Data;
+using Core.Interfaces;
 
 namespace API
 {
@@ -20,6 +21,7 @@ namespace API
         {
 
             services.AddControllers();
+            services.AddScoped<IProductRepository, ProductRepository>();
             IServiceCollection serviceCollection = services.AddDbContext<StoreContext>(x => x.UseSqlite(_configuration.GetConnectionString("DefaultConnection")));
             services.AddSwaggerGen(c =>
             {
