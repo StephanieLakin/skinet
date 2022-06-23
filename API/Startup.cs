@@ -2,6 +2,7 @@ using Microsoft.OpenApi.Models;
 using Microsoft.EntityFrameworkCore;
 using Infrastructure.Data;
 using Core.Interfaces;
+using API.Helpers;
 
 namespace API
 {
@@ -19,6 +20,7 @@ namespace API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAutoMapper(typeof(MappingProfiles));
             services.AddScoped(typeof(IGenericRepository<>),(typeof(GenericRepository<>)));
             services.AddControllers();
             services.AddScoped<IProductRepository, ProductRepository>();
@@ -42,6 +44,8 @@ namespace API
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseStaticFiles();
 
             app.UseAuthorization();
 
