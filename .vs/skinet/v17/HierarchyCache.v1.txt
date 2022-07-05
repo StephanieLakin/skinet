@@ -1,0 +1,641 @@
+﻿++Solution 'skinet' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:skinet.sln
+++Core
+i:{00000000-0000-0000-0000-000000000000}:Core
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\core\core.csproj
+++Dependencies
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:>325
+i:{95666795-3561-4d9a-a88d-355d3c930246}:>466
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:>326
+++Entities
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\entities\
+++BaseEntity.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\entities\baseentity.cs
+++Product.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\entities\product.cs
+++ProductBrand.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\entities\productbrand.cs
+++ProductType.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\entities\producttype.cs
+++Interfaces
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\interfaces\
+++IGenericRepository.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\interfaces\igenericrepository.cs
+++IProductRepository.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\interfaces\iproductrepository.cs
+++Specifications
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\specifications\
+++BaseSpecification.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\specifications\basespecification.cs
+++ISpecification.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\specifications\ispecification.cs
+++ProductsWithTypesAndBrandsSpecification.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\specifications\productswithtypesandbrandsspecification.cs
+++Analyzers
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:analyzers
+i:{95666795-3561-4d9a-a88d-355d3c930246}:analyzers
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:analyzers
+++Frameworks
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:frameworks
+i:{95666795-3561-4d9a-a88d-355d3c930246}:frameworks
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:frameworks
+++Packages
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:packages
+i:{95666795-3561-4d9a-a88d-355d3c930246}:packages
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:packages
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\users\steph\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\users\steph\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\users\steph\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\users\steph\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\users\steph\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\microsoft.netcore.app
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\microsoft.netcore.app
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.Sqlite (6.0.5)
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:>475
+i:{95666795-3561-4d9a-a88d-355d3c930246}:>499
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:>483
+++Microsoft.EntityFrameworkCore.Sqlite.Core (6.0.5)
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:>476
+i:{95666795-3561-4d9a-a88d-355d3c930246}:>500
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:>484
+++API
+i:{00000000-0000-0000-0000-000000000000}:API
+++Connected Services 
+i:{95666795-3561-4d9a-a88d-355d3c930246}:>467
+++Properties
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\properties\
+++launchSettings.json
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\properties\launchsettings.json
+++wwwroot
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\
+++images
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\
+++Controllers
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\controllers\
+++BaseApiController.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\controllers\baseapicontroller.cs
+++BuggyController.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\controllers\buggycontroller.cs
+++ErrorController.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\controllers\errorcontroller.cs
+++ProductsController.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\controllers\productscontroller.cs
+++WeatherForecastController.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\controllers\weatherforecastcontroller.cs
+++Dtos
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\dtos\
+++ProductToReturnDto.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\dtos\producttoreturndto.cs
+++Errors
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\errors\
+++ApiException.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\errors\apiexception.cs
+++ApiResponse.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\errors\apiresponse.cs
+++ApiValidationErrorResponse.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\errors\apivalidationerrorresponse.cs
+++Helpers
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\helpers\
+++MappingProfiles.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\helpers\mappingprofiles.cs
+++ProductUrlResolver.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\helpers\producturlresolver.cs
+++MiddleWare
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\middleware\
+++ExceptionMiddleWare.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\middleware\exceptionmiddleware.cs
+++appsettings.json
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\appsettings.json
+++appsettings.Development.json
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\appsettings.development.json
+++Program.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\program.cs
+++skinet.db
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\skinet.db
+++skinet.db-shm
+++skinet.db-wal
+++Startup.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\startup.cs
+++WeatherForecast.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\weatherforecast.cs
+++No service dependencies discovered
+i:{95666795-3561-4d9a-a88d-355d3c930246}:>468
+++Projects
+i:{95666795-3561-4d9a-a88d-355d3c930246}:projects
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:projects
+++products
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\
+++Microsoft.AspNetCore.Analyzers
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\microsoft.aspnetcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{95666795-3561-4d9a-a88d-355d3c930246}:>619
+++Microsoft.EntityFrameworkCore.Design (6.0.4)
+i:{95666795-3561-4d9a-a88d-355d3c930246}:>497
+++Swashbuckle.AspNetCore (6.2.3)
+i:{95666795-3561-4d9a-a88d-355d3c930246}:>498
+++Infrastructure
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\infrastructure.csproj
+i:{00000000-0000-0000-0000-000000000000}:Infrastructure
+++boot-ang1.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\boot-ang1.png
+++boot-ang2.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\boot-ang2.png
+++boot-core1.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\boot-core1.png
+++boot-core2.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\boot-core2.png
+++boot-redis1.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\boot-redis1.png
+++glove-code1.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\glove-code1.png
+++glove-code2.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\glove-code2.png
+++glove-react1.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\glove-react1.png
+++glove-react2.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\glove-react2.png
+++hat-core1.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\hat-core1.png
+++hat-react1.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\hat-react1.png
+++hat-react2.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\hat-react2.png
+++sb-ang1.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\sb-ang1.png
+++sb-ang2.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\sb-ang2.png
+++sb-core1.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\sb-core1.png
+++sb-core2.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\sb-core2.png
+++sb-react1.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\sb-react1.png
+++sb-ts1.png
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\wwwroot\images\products\sb-ts1.png
+++Data
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\
+++Config
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\config\
+++ProductConfiguration.cs
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\config\productconfiguration.cs
+++Migrations
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\migrations\
+++Queries
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\queries\
+++-- SQLite_InsertProducts.sql
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\queries\-- sqlite_insertproducts.sql
+++SeedData
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\seeddata\
+++brands.json
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\seeddata\brands.json
+++products.json
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\seeddata\products.json
+++types.json
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\seeddata\types.json
+++GenericRepository.cs
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\genericrepository.cs
+++ProductRepository.cs
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\productrepository.cs
+++SpecificationEvaluator.cs
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\specificationevaluator.cs
+++StoreContext.cs
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\storecontext.cs
+++StoreContextSeed.cs
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\storecontextseed.cs
+++20220616163844_InitialCreate.cs
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\migrations\20220616163844_initialcreate.cs
+++StoreContextModelSnapshot.cs
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\migrations\storecontextmodelsnapshot.cs
+++Newtonsoft.Json (13.0.1)
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:>529
+++20220616163844_InitialCreate.Designer.cs
+i:{5c0337e2-522f-4898-bc56-53811fd05b1b}:c:\git\angular\angulardotnetecommerce\skinet\infrastructure\data\migrations\20220616163844_initialcreate.designer.cs
+++bin
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\bin\
+++Debug
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\bin\debug\
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\
+++net5.0
+++net6.0
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\bin\debug\net6.0\
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\
+++ref
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\bin\debug\net6.0\ref\
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\ref\
+++runtimes
+++API.deps.json
+++API.dll
+++API.exe
+++API.pdb
+++API.runtimeconfig.json
+++API.staticwebassets.runtime.json
+++AutoMapper.dll
+++AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+++Core.dll
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\bin\debug\net6.0\core.dll
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\core.dll
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\ref\core.dll
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\refint\core.dll
+++Core.pdb
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\bin\debug\net6.0\core.pdb
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\core.pdb
+++Humanizer.dll
+++Infrastructure.dll
+++Infrastructure.pdb
+++Microsoft.Data.Sqlite.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+++Microsoft.EntityFrameworkCore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+++Microsoft.EntityFrameworkCore.Sqlite.dll
+++Microsoft.Extensions.Caching.Memory.dll
+++Microsoft.Extensions.DependencyModel.dll
+++Microsoft.OpenApi.dll
+++Newtonsoft.Json.dll
+++SQLitePCLRaw.batteries_v2.dll
+++SQLitePCLRaw.core.dll
+++SQLitePCLRaw.provider.e_sqlite3.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+++alpine-x64
+++linux-arm
+++linux-arm64
+++linux-armel
+++linux-mips64
+++linux-musl-x64
+++linux-s390x
+++linux-x64
+++linux-x86
+++osx-arm64
+++osx-x64
+++win-arm
+++win-arm64
+++win-x64
+++win-x86
+++native
+++libe_sqlite3.so
+++libe_sqlite3.dylib
+++e_sqlite3.dll
+++obj
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\
+++API.csproj.EntityFrameworkCore.targets
+++API.csproj.nuget.dgspec.json
+++API.csproj.nuget.g.props
+++API.csproj.nuget.g.targets
+++project.assets.json
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\project.assets.json
+++project.nuget.cache
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+++refint
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\refint\
+++.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+++API.AssemblyInfo.cs
+++API.AssemblyInfoInputs.cache
+++API.csproj.AssemblyReference.cache
+++API.csproj.FileListAbsolute.txt
+++API.GeneratedMSBuildEditorConfig.editorconfig
+++API.GlobalUsings.g.cs
+++project.razor.json
+++staticwebassets
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++API.assets.cache
+++API.csproj.BuildWithSkipAnalyzers
+++API.csproj.CopyComplete
+++API.csproj.CoreCompileInputs.cache
+++API.genruntimeconfig.cache
+++API.MvcApplicationPartsAssemblyInfo.cache
+++API.MvcApplicationPartsAssemblyInfo.cs
+++apphost.exe
+++staticwebassets.build.json
+++staticwebassets.development.json
+++Imports
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:>933
+++Sdk.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+++Microsoft.Common.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+++Microsoft.NET.Sdk.Publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+++Microsoft.NuGet.ImportBefore.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+++Microsoft.TypeScript.Default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+++Microsoft.TypeScript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+++Microsoft.Web.Designtime.targets
+++Default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+++Microsoft.Extensions.ApiDescription.Server.props
+++Swashbuckle.AspNetCore.props
+++Microsoft.EntityFrameworkCore.Design.props
+++Microsoft.NuGet.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++04.03.05.00.props
+++Microsoft.NET.ILLink.Tasks.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.cpp.vclibs120universal.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.net.coreruntime.importbefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.netnative.importbefore.targets
+++Microsoft.NET.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.desktopbridge.importafter.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.coreruntime.importafter.targets
+++Microsoft.NetNative.ImportAfter.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.netnative.importafter.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Xamarin.Common.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\xamarin.common.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+++Microsoft.DesktopBridge.Common.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
+++Microsoft.Docker.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+++NewFolder
+++Extensions
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\extensions\
+++Extensions.cs
+++ApplicationServicesExtensions.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\extensions\applicationservicesextensions.cs
+++SwaggerServiceExtensions.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\extensions\swaggerserviceextensions.cs
+++ProductSpecParams.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\specifications\productspecparams.cs
+++Pagination.cs
+i:{95666795-3561-4d9a-a88d-355d3c930246}:c:\git\angular\angulardotnetecommerce\skinet\api\helpers\pagination.cs
+++ProductWithFiltersForCountSpecification.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\specifications\productwithfiltersforcountspecification.cs
+++System.Runtime (4.3.1)
+++Core.deps.json
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\bin\debug\net6.0\core.deps.json
+++Core.csproj.nuget.dgspec.json
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\core.csproj.nuget.dgspec.json
+++Core.csproj.nuget.g.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\core.csproj.nuget.g.props
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\core.csproj.nuget.g.props
+++Core.csproj.nuget.g.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\core.csproj.nuget.g.targets
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\core.csproj.nuget.g.targets
+++Core.AssemblyInfo.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\core.assemblyinfo.cs
+++Core.AssemblyInfoInputs.cache
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\core.assemblyinfoinputs.cache
+++Core.assets.cache
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\core.assets.cache
+++Core.csproj.AssemblyReference.cache
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\core.csproj.assemblyreference.cache
+++Core.csproj.BuildWithSkipAnalyzers
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\core.csproj.buildwithskipanalyzers
+++Core.csproj.CoreCompileInputs.cache
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\core.csproj.corecompileinputs.cache
+++Core.csproj.FileListAbsolute.txt
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\core.csproj.filelistabsolute.txt
+++Core.GeneratedMSBuildEditorConfig.editorconfig
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\core.generatedmsbuildeditorconfig.editorconfig
+++Core.GlobalUsings.g.cs
+i:{c0493bea-55e4-46ee-91b6-f32498d90b08}:c:\git\angular\angulardotnetecommerce\skinet\core\obj\debug\net6.0\core.globalusings.g.cs
