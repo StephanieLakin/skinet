@@ -15,7 +15,7 @@ using API.Helpers;
 
 namespace API.Controllers
 {
-    
+
     public class ProductsController : BaseApiController
     {
         private readonly IGenericRepository<Product> _productsRepo;
@@ -23,8 +23,8 @@ namespace API.Controllers
         private readonly IGenericRepository<ProductType> _productTypesRepo;
         private readonly IMapper _mapper;
 
-        public ProductsController(IGenericRepository<Product> productsRepo, 
-            IGenericRepository<ProductBrand> productBrandRepo, 
+        public ProductsController(IGenericRepository<Product> productsRepo,
+            IGenericRepository<ProductBrand> productBrandRepo,
             IGenericRepository<ProductType> productTypeRepo, IMapper mapper)
         {
             _productsRepo = productsRepo;
@@ -52,7 +52,7 @@ namespace API.Controllers
 
         //}
 
-       
+
         [HttpGet]
         public async Task<ActionResult<Pagination<ProductToReturnDto>>> GetProducts(
           [FromQuery] ProductSpecParams productParams)
@@ -66,7 +66,7 @@ namespace API.Controllers
             var products = await _productsRepo.ListAsync(spec);
 
             var data = _mapper
-           .Map <IReadOnlyList<Product>,IReadOnlyList<ProductToReturnDto>> (products);
+           .Map<IReadOnlyList<Product>, IReadOnlyList<ProductToReturnDto>>(products);
 
             //var data = _mapper
             //    .Map<IReadOnlyList<ProductToReturnDto>>(products);
@@ -86,9 +86,9 @@ namespace API.Controllers
             if (product == null)
             {
                 return NotFound(new ApiResponse(404));
-            }          
-         
-            return _mapper.Map<Product,ProductToReturnDto>(product);
+            }
+
+            return _mapper.Map<Product, ProductToReturnDto>(product);
         }
 
         [HttpGet("brands")]
